@@ -42,4 +42,4 @@ public class sweetseventeen
                 System.out.println("res using asccii: " + usingascci(str));
                 System.out.println("res using mapping: " + usingMap(str));        
         }
-}
+}       
